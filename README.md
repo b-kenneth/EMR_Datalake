@@ -18,7 +18,7 @@ This project implements a comprehensive data lake analytics solution for a car r
 
 ### High-Level Architecture
 
-[architecture diagram](images/architecture%20diagram.png)
+![architecture diagram](images/architecture%20diagram.png)
 
 ## ✨ Features
 

@@ -13,11 +13,12 @@ This project implements a comprehensive data lake analytics solution for a car r
 - **Data Silos**: Creates a unified data lake architecture for cross-functional analytics
 - **Business Intelligence**: Provides real-time KPIs for location performance, vehicle utilization, and user engagement
 
-### Business Value
-- **Revenue Optimization**: Identifies highest-performing locations and vehicle types
-- **Operational Efficiency**: Analyzes peak usage patterns and resource allocation
-- **Customer Insights**: Tracks user engagement and spending behaviors
-- **Data-Driven Decisions**: Enables stakeholders to make informed business choices
+
+## 🏗️ Architecture
+
+### High-Level Architecture
+
+[architecture diagram](images/architecture%20diagram.png)
 
 ## ✨ Features
 
@@ -30,12 +31,6 @@ This project implements a comprehensive data lake analytics solution for a car r
 - **Modular Design**: Reusable components for easy maintenance and extension
 - **Performance Monitoring**: CloudWatch integration for operational visibility
 
-## 🏗️ Architecture
-
-### High-Level Architecture
-
-
-### Data Flow Pipeline
 
 
 ## 🛠️ Tech Stack
